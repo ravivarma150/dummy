@@ -1,2 +1,3 @@
-def add():
-    return 'function'
+class main:
+    def __init__(self):
+        pass
