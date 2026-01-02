@@ -1,4 +1,5 @@
-git push -> Move the file's local repository to remote.
+git status -> any changes in your local code or not.
 
-git pull -> The files move from remote to local repository.
+git add files/floders/.  -> Move files from worker directed to staging area.
 
+git commit -m 'msg'  -> Move the files from staging area to local repository   
