@@ -1,0 +1,4 @@
+git push -> Move the file's local repository to remote.
+
+git pull -> The files move from remote to local repository.
+
